@@ -1,0 +1,15 @@
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\bin\Debug\net6.0\ResponsiPemrograman4328.exe
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\bin\Debug\net6.0\ResponsiPemrograman4328.deps.json
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\bin\Debug\net6.0\ResponsiPemrograman4328.runtimeconfig.json
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\bin\Debug\net6.0\ResponsiPemrograman4328.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\bin\Debug\net6.0\ResponsiPemrograman4328.pdb
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.csproj.AssemblyReference.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.AssemblyInfoInputs.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.AssemblyInfo.cs
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.csproj.CoreCompileInputs.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\refint\ResponsiPemrograman4328.dll
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.pdb
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ResponsiPemrograman4328.genruntimeconfig.cache
+D:\Amikom\Semester 2\Pemrograman\praktikum\ResponsiPemrograman4328\ResponsiPemrograman4328\obj\Debug\net6.0\ref\ResponsiPemrograman4328.dll
